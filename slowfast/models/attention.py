@@ -1,6 +1,16 @@
 #!/usr/bin/env python3
 # Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 
+## TODO : Check the attention model for enhancements and adaptation 
+
+
+
+
+
+
+
+
+### 
 
 import numpy
 import torch
